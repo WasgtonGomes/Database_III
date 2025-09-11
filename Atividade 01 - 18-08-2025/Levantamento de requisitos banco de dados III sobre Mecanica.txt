@@ -1,0 +1,21 @@
+Levantamento de requisitos banco de dados III sobre Mecanica 
+  
+Cidade
+Estado
+Endereco
+Sexo
+Cliente
+Carro
+Departamento
+Funcionario
+Fornecedor
+Produto
+Servico
+Compra_Produto
+Itens_Compra
+Caixa
+Venda
+Itens_Venda
+Recebimentos
+Despesas
+Pagamentos
