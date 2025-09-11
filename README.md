@@ -38,10 +38,14 @@ The project focuses on using **advanced features in Database Management Systems 
 
 ---
 
-## 🛠️ Technologies Used
-- **MySQL Workbench**  
-- **MySQL Server**  
-- **Git & GitHub**  
+## 🛠️ Tools & Technologies Used
+
+| Technology | Icon | Purpose |
+|------------|------|---------|
+| **MySQL** | ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) | Database management and queries |
+| **MySQL Workbench** | ![Workbench](https://img.icons8.com/ios/50/000000/mysql-workbench.png) | Database design, modeling, and administration |
+| **Git** | ![Git](https://img.icons8.com/ios-glyphs/50/000000/git.png) | Version control |
+| **GitHub** | ![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png) | Repository hosting and collaboration |
 
 ---
 
