@@ -1,4 +1,4 @@
-# 📂 Database_III   
+# 📂 Database_III  
 
 Repository developed for the **Database III** course in the **Systems Analysis and Development program (IFRO, 2025)**.  
 The project focuses on using **advanced features in Database Management Systems (DBMSs)**, emphasizing security, performance, and practical implementation in **MySQL**.  
